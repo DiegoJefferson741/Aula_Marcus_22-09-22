@@ -1,0 +1,21 @@
+
+pip install geocoder
+
+python
+
+import geocoder
+
+print(geocoder.ip('me').latlng)
+
+https://api.openweathermap.org/data/2.5/forecast?lat=-21.1306&lon=-42.3664&units=metric&appid=chavenosite
+
+
+//----------------------------------------------
+//Entrar na area de usuario
+cd Desktop
+
+
+// subir o dokercompose
+docker-compose up
+
+

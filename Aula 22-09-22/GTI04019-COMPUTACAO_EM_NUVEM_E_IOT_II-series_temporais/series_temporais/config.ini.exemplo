@@ -1,0 +1,14 @@
+[GENERAL]
+
+
+[OPENWEATHER]
+Key=
+
+[INFLUXDB]
+Endereco = localhost
+Porta = 8086
+DB = openweather
+Username = 
+Senha = 
+
+
